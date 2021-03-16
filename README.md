@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.rapidtech1898.com](https://www.rapidtech1898.com)
 
-- 📝 I regularly write articles on [https://www.fiverr.com/rapidtech1898](https://www.fiverr.com/rapidtech1898)
+- 📝 I regularly work for projects on [https://www.fiverr.com/rapidtech1898](https://www.fiverr.com/rapidtech1898)
 
 - 💬 Ask me about **Python, WebScraping, Javascript, HTML, CSS, Finance,...**
 
