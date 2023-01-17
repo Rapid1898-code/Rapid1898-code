@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Markus</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Full Stack Developer and IT expert from Austria with many years of experience...</h3>
 
 - 🔭 I’m currently working on [My Webpage](https://www.rapidtech1898.com/indexEN.html)
