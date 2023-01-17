@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **rapid1898@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/markus-polzer-57589421/](https://www.linkedin.com/in/markus-polzer-57589421/)
-
 - ⚡ Fun fact **Best football team in the world! => https://www.skrapid.at/**
 
 <h3 align="left">Connect with me:</h3>
