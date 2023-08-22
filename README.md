@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rapid1898-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rapid1898-code" height="30" width="40" /></a>
-<a href="https://twitter.com/markuspolzer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="markuspolzer" height="30" width="40" /></a>-->
-<!--<a href="https://linkedin.com/in/markus-polzer-57589421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="markus-polzer-57589421" height="30" width="40" /></a>
+<a href="https://twitter.com/markuspolzer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="markuspolzer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/markus-polzer-57589421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="markus-polzer-57589421" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/12415855/rapid1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/12415855/rapid1898" height="30" width="40" /></a>
 <a href="https://fb.com/markus.polzer.77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="markus.polzer.77" height="30" width="40" /></a>
 <a href="https://instagram.com/polzermarkus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="polzermarkus" height="30" width="40" /></a>
@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapid1898-code&show_icons=true&locale=en" alt="rapid1898-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rapid1898-code&" alt="rapid1898-code" /></p>
-
