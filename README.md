@@ -22,9 +22,9 @@
 <a href="https://codepen.io/rapid1898-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rapid1898-code" height="30" width="40" /></a>
 <a href="https://twitter.com/RapidTech1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="markuspolzer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/max-heinrich-a04923238/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="markus-polzer-57589421" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/12415855/rapid1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/12415855/rapid1898" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12415855/rapid1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/12415855/rapid1898" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rapidtech1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="markus.polzer.77" height="30" width="40" /></a>
-<a href="https://instagram.com/polzermarkus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="polzermarkus" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rapidtech1898/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="polzermarkus" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rapidtech 1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rapidtech 1898" height="30" width="40" /></a>
 <a href="https://discord.gg/Rapid1898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Rapid1898" height="30" width="40" /></a>
 </p>
