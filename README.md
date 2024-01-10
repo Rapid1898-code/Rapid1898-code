@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Full Stack Developer and IT expert from Austria with many years of experience...</h3>
 
-- 🔭 I’m currently working on [My Webpage](https://www.rapidtech1898.com/indexEN.html)
+- 🔭 I’m currently working on [My Webpage](https://www.rapidtech1898.com)
 
 - 🌱 I’m currently learning **Kivy, Angular, Django,...**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Python, WebScraping, Javascript, HTML, CSS, Finance,...**
 
 - 📫 How to reach me **rapid1898@gmail.com**
-
-- ⚡ Fun fact **Best football team in the world! => https://www.skrapid.at/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
